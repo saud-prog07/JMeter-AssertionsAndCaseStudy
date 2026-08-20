@@ -1,0 +1,91 @@
+2026-08-19 16:29:43,577 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-08-19 16:29:43,592 INFO o.a.j.JMeter: Loading user properties from: C:\ApacheJmeter\apache-jmeter-5.6.3\bin\user.properties
+2026-08-19 16:29:43,592 INFO o.a.j.JMeter: Loading system properties from: C:\ApacheJmeter\apache-jmeter-5.6.3\bin\system.properties
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: Version 5.6.3
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: java.version=26
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: os.name=Windows 11
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: os.arch=amd64
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: os.version=10.0
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: java.awt.headless=true
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-08-19 16:29:43,597 INFO o.a.j.JMeter: Available Processors =18
+2026-08-19 16:29:43,607 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-08-19 16:29:43,608 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-08-19 16:29:43,608 INFO o.a.j.JMeter: JMeterHome=C:\ApacheJmeter\apache-jmeter-5.6.3
+2026-08-19 16:29:43,608 INFO o.a.j.JMeter: user.dir  =C:\JmeterPracticeExamples\NonGUIMode
+2026-08-19 16:29:43,608 INFO o.a.j.JMeter: PWD       =C:\JmeterPracticeExamples\NonGUIMode
+2026-08-19 16:29:43,609 INFO o.a.j.JMeter: IP: 10.40.0.221 Name: NeerajsYoga FullName: NeerajsYoga
+2026-08-19 16:29:43,618 INFO o.a.j.s.FileServer: Default base='C:\JmeterPracticeExamples\NonGUIMode'
+2026-08-19 16:29:43,619 INFO o.a.j.s.FileServer: Set new base='C:\JmeterPracticeExamples\NonGUIMode'
+2026-08-19 16:29:43,811 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-08-19 16:29:43,826 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-08-19 16:29:43,829 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-08-19 16:29:43,832 INFO o.a.j.s.SaveService: Loading file: NonGUI.jmx
+2026-08-19 16:29:43,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-08-19 16:29:43,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-08-19 16:29:43,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-08-19 16:29:43,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-08-19 16:29:43,868 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-08-19 16:29:43,868 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-08-19 16:29:43,890 INFO o.a.j.JMeter: Creating summariser <summary>
+2026-08-19 16:29:43,898 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-08-19 16:29:43,899 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-08-19 16:29:43,899 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-08-19 16:29:43,902 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-08-19 16:29:43,902 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-08-19 16:29:43,962 INFO o.a.j.JMeter: Running test (1787137183962)
+2026-08-19 16:29:43,976 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Non GUI Mode
+2026-08-19 16:29:43,976 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Non GUI Mode.
+2026-08-19 16:29:43,976 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-08-19 16:29:43,977 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2026-08-19 16:29:43,983 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-1
+2026-08-19 16:29:43,986 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-08-19 16:29:43,986 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-08-19 16:29:43,996 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = NeerajsYoga
+2026-08-19 16:29:44,000 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-08-19 16:29:44,001 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-08-19 16:29:44,001 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-08-19 16:29:44,001 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-08-19 16:29:44,001 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-08-19 16:29:44,056 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2026-08-19 16:29:44,060 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2026-08-19 16:29:44,060 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2026-08-19 16:29:44,081 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-2
+2026-08-19 16:29:44,181 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-3
+2026-08-19 16:29:44,280 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-4
+2026-08-19 16:29:44,333 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2026-08-19 16:29:44,335 INFO o.a.j.u.SSLManager: KeyStore created OK
+2026-08-19 16:29:44,335 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2026-08-19 16:29:44,379 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-5
+2026-08-19 16:29:44,479 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-6
+2026-08-19 16:29:44,581 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-7
+2026-08-19 16:29:44,680 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-8
+2026-08-19 16:29:44,779 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-9
+2026-08-19 16:29:44,879 INFO o.a.j.t.JMeterThread: Thread started: Non GUI Mode 1-10
+2026-08-19 16:29:59,561 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-6
+2026-08-19 16:29:59,561 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-6
+2026-08-19 16:29:59,679 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-1
+2026-08-19 16:29:59,679 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-1
+2026-08-19 16:29:59,878 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-5
+2026-08-19 16:29:59,879 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-5
+2026-08-19 16:30:00,085 INFO o.a.j.r.Summariser: summary +    240 in 00:00:16 =   14.9/s Avg:   633 Min:   477 Max:  1950 Err:     0 (0.00%) Active: 7 Started: 10 Finished: 3
+2026-08-19 16:30:00,086 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-2
+2026-08-19 16:30:00,086 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-2
+2026-08-19 16:30:00,117 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-9
+2026-08-19 16:30:00,117 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-9
+2026-08-19 16:30:00,431 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-4
+2026-08-19 16:30:00,431 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-4
+2026-08-19 16:30:00,539 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-3
+2026-08-19 16:30:00,539 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-3
+2026-08-19 16:30:00,914 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-7
+2026-08-19 16:30:00,915 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-7
+2026-08-19 16:30:01,104 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-8
+2026-08-19 16:30:01,104 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-8
+2026-08-19 16:30:01,607 INFO o.a.j.t.JMeterThread: Thread is done: Non GUI Mode 1-10
+2026-08-19 16:30:01,607 INFO o.a.j.t.JMeterThread: Thread finished: Non GUI Mode 1-10
+2026-08-19 16:30:01,608 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-08-19 16:30:01,609 INFO o.a.j.r.Summariser: summary +     10 in 00:00:02 =    6.5/s Avg:   730 Min:   510 Max:   778 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2026-08-19 16:30:01,610 INFO o.a.j.r.Summariser: summary =    250 in 00:00:18 =   14.2/s Avg:   637 Min:   477 Max:  1950 Err:     0 (0.00%)

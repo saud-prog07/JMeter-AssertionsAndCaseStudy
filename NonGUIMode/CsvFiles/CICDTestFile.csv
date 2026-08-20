@@ -1,0 +1,751 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1787136988440,1970,UnitConversions,200,OK,Non GUI Mode 1-4,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,942,0,694
+1787136988440,950,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,942,0,694
+1787136989392,1018,UnitConversions-1,200,OK,Non GUI Mode 1-4,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1014,0,542
+1787136988539,1910,UnitConversions,200,OK,Non GUI Mode 1-5,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,841,0,595
+1787136988539,851,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,841,0,595
+1787136989391,1058,UnitConversions-1,200,OK,Non GUI Mode 1-5,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1057,0,567
+1787136988228,2228,UnitConversions,200,OK,Non GUI Mode 1-1,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,1152,0,905
+1787136988228,1161,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,1152,0,905
+1787136989392,1064,UnitConversions-1,200,OK,Non GUI Mode 1-1,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1062,0,568
+1787136988240,2226,UnitConversions,200,OK,Non GUI Mode 1-2,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,1139,0,894
+1787136988240,1150,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,1139,0,894
+1787136989391,1075,UnitConversions-1,200,OK,Non GUI Mode 1-2,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1075,0,572
+1787136988342,2124,UnitConversions,200,OK,Non GUI Mode 1-3,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,1038,0,792
+1787136988342,1048,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,1038,0,792
+1787136989391,1075,UnitConversions-1,200,OK,Non GUI Mode 1-3,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1075,0,572
+1787136988638,1839,UnitConversions,200,OK,Non GUI Mode 1-6,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,759,0,511
+1787136988638,759,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,759,0,511
+1787136989398,1079,UnitConversions-1,200,OK,Non GUI Mode 1-6,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1075,0,568
+1787136988840,1730,UnitConversions,200,OK,Non GUI Mode 1-8,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,753,0,504
+1787136988840,753,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,753,0,504
+1787136989594,976,UnitConversions-1,200,OK,Non GUI Mode 1-8,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,975,0,491
+1787136988741,1838,UnitConversions,200,OK,Non GUI Mode 1-7,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,834,0,562
+1787136988741,834,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,834,0,562
+1787136989577,1002,UnitConversions-1,200,OK,Non GUI Mode 1-7,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1001,0,506
+1787136988939,1740,UnitConversions,200,OK,Non GUI Mode 1-9,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,732,0,487
+1787136988939,732,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,732,0,487
+1787136989672,1007,UnitConversions-1,200,OK,Non GUI Mode 1-9,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,1005,0,509
+1787136989040,1764,UnitConversions,200,OK,Non GUI Mode 1-10,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,763,0,508
+1787136989040,763,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,763,0,508
+1787136989804,1000,UnitConversions-1,200,OK,Non GUI Mode 1-10,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,999,0,504
+1787136990420,485,Formulas,200,OK,Non GUI Mode 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136990420,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136990667,238,Formulas-1,200,OK,Non GUI Mode 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,238,0,0
+1787136990450,492,Formulas,200,OK,Non GUI Mode 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136990450,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787136990695,247,Formulas-1,200,OK,Non GUI Mode 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136990457,494,Formulas,200,OK,Non GUI Mode 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136990457,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787136990702,249,Formulas-1,200,OK,Non GUI Mode 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136990466,487,Formulas,200,OK,Non GUI Mode 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,234,0,0
+1787136990466,234,Formulas-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,234,0,0
+1787136990701,252,Formulas-1,200,OK,Non GUI Mode 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,251,0,0
+1787136990467,496,Formulas,200,OK,Non GUI Mode 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136990467,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136990709,254,Formulas-1,200,OK,Non GUI Mode 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787136990478,503,Formulas,200,OK,Non GUI Mode 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136990478,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136990725,256,Formulas-1,200,OK,Non GUI Mode 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,256,0,0
+1787136990571,489,Formulas,200,OK,Non GUI Mode 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136990571,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787136990815,245,Formulas-1,200,OK,Non GUI Mode 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787136990580,524,Formulas,200,OK,Non GUI Mode 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,272,0,0
+1787136990580,272,Formulas-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,272,0,0
+1787136990853,251,Formulas-1,200,OK,Non GUI Mode 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136990680,490,Formulas,200,OK,Non GUI Mode 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,239,0,0
+1787136990680,239,Formulas-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,239,0,0
+1787136990920,250,Formulas-1,200,OK,Non GUI Mode 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136990806,509,Formulas,200,OK,Non GUI Mode 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136990806,249,Formulas-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,249,0,0
+1787136991055,260,Formulas-1,200,OK,Non GUI Mode 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,260,0,0
+1787136990907,490,Currencies,200,OK,Non GUI Mode 1-4,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787136990907,246,Currencies-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787136991154,243,Currencies-1,200,OK,Non GUI Mode 1-4,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787136990943,492,Currencies,200,OK,Non GUI Mode 1-5,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136990943,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787136991188,247,Currencies-1,200,OK,Non GUI Mode 1-5,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136990953,490,Currencies,200,OK,Non GUI Mode 1-2,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787136990953,235,Currencies-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,235,0,0
+1787136991188,255,Currencies-1,200,OK,Non GUI Mode 1-2,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787136990952,495,Currencies,200,OK,Non GUI Mode 1-1,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787136990952,245,Currencies-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787136991198,249,Currencies-1,200,OK,Non GUI Mode 1-1,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136990964,496,Currencies,200,OK,Non GUI Mode 1-3,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787136990964,242,Currencies-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787136991206,254,Currencies-1,200,OK,Non GUI Mode 1-3,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787136990982,504,Currencies,200,OK,Non GUI Mode 1-6,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136990982,248,Currencies-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,248,0,0
+1787136991230,256,Currencies-1,200,OK,Non GUI Mode 1-6,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,255,0,0
+1787136991061,489,Currencies,200,OK,Non GUI Mode 1-8,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136991061,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787136991305,245,Currencies-1,200,OK,Non GUI Mode 1-8,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787136991105,523,Currencies,200,OK,Non GUI Mode 1-7,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,272,0,0
+1787136991105,272,Currencies-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,272,0,0
+1787136991378,250,Currencies-1,200,OK,Non GUI Mode 1-7,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136991171,492,Currencies,200,OK,Non GUI Mode 1-9,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,240,0,0
+1787136991171,240,Currencies-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,240,0,0
+1787136991412,251,Currencies-1,200,OK,Non GUI Mode 1-9,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136991316,500,Currencies,200,OK,Non GUI Mode 1-10,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136991316,249,Currencies-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,249,0,0
+1787136991565,251,Currencies-1,200,OK,Non GUI Mode 1-10,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136991398,490,Charts,200,OK,Non GUI Mode 1-4,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787136991398,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,248,0,0
+1787136991647,241,Charts-1,200,OK,Non GUI Mode 1-4,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,240,0,0
+1787136991436,492,Charts,200,OK,Non GUI Mode 1-5,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136991436,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787136991681,247,Charts-1,200,OK,Non GUI Mode 1-5,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787136991443,489,Charts,200,OK,Non GUI Mode 1-2,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787136991443,235,Charts-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,235,0,0
+1787136991678,254,Charts-1,200,OK,Non GUI Mode 1-2,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787136991447,494,Charts,200,OK,Non GUI Mode 1-1,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787136991447,245,Charts-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787136991692,249,Charts-1,200,OK,Non GUI Mode 1-1,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787136991461,495,Charts,200,OK,Non GUI Mode 1-3,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,241,0,0
+1787136991461,241,Charts-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,241,0,0
+1787136991703,253,Charts-1,200,OK,Non GUI Mode 1-3,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787136991486,504,Charts,200,OK,Non GUI Mode 1-6,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787136991486,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787136991734,256,Charts-1,200,OK,Non GUI Mode 1-6,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,255,0,0
+1787136991551,489,Charts,200,OK,Non GUI Mode 1-8,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787136991551,243,Charts-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787136991794,246,Charts-1,200,OK,Non GUI Mode 1-8,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787136991630,524,Charts,200,OK,Non GUI Mode 1-7,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,271,0,0
+1787136991630,271,Charts-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,271,0,0
+1787136991902,252,Charts-1,200,OK,Non GUI Mode 1-7,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787136991664,493,Charts,200,OK,Non GUI Mode 1-9,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,240,0,0
+1787136991664,240,Charts-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,240,0,0
+1787136991904,253,Charts-1,200,OK,Non GUI Mode 1-9,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787136991816,502,Charts,200,OK,Non GUI Mode 1-10,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787136991816,250,Charts-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,250,0,0
+1787136992066,252,Charts-1,200,OK,Non GUI Mode 1-10,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787136991888,488,Calculators,200,OK,Non GUI Mode 1-4,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787136991888,247,Calculators-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787136992135,241,Calculators-1,200,OK,Non GUI Mode 1-4,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,240,0,0
+1787136991929,495,Calculators,200,OK,Non GUI Mode 1-5,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787136991929,244,Calculators-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787136992173,251,Calculators-1,200,OK,Non GUI Mode 1-5,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787136991933,491,Calculators,200,OK,Non GUI Mode 1-2,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787136991933,234,Calculators-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,234,0,0
+1787136992168,256,Calculators-1,200,OK,Non GUI Mode 1-2,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,255,0,0
+1787136991942,494,Calculators,200,OK,Non GUI Mode 1-1,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787136991942,244,Calculators-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787136992186,250,Calculators-1,200,OK,Non GUI Mode 1-1,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136991956,496,Calculators,200,OK,Non GUI Mode 1-3,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787136991956,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,242,0,0
+1787136992198,254,Calculators-1,200,OK,Non GUI Mode 1-3,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,253,0,0
+1787136991990,506,Calculators,200,OK,Non GUI Mode 1-6,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787136991990,248,Calculators-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,248,0,0
+1787136992238,258,Calculators-1,200,OK,Non GUI Mode 1-6,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,256,0,0
+1787136992041,493,Calculators,200,OK,Non GUI Mode 1-8,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136992041,246,Calculators-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787136992287,247,Calculators-1,200,OK,Non GUI Mode 1-8,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136992158,490,Calculators,200,OK,Non GUI Mode 1-9,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,239,0,0
+1787136992158,239,Calculators-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,239,0,0
+1787136992397,251,Calculators-1,200,OK,Non GUI Mode 1-9,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787136992154,522,Calculators,200,OK,Non GUI Mode 1-7,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,271,0,0
+1787136992154,271,Calculators-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,271,0,0
+1787136992426,250,Calculators-1,200,OK,Non GUI Mode 1-7,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136992318,500,Calculators,200,OK,Non GUI Mode 1-10,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136992318,249,Calculators-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,249,0,0
+1787136992567,251,Calculators-1,200,OK,Non GUI Mode 1-10,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136992378,487,UnitConversions,200,OK,Non GUI Mode 1-4,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787136992378,247,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787136992625,240,UnitConversions-1,200,OK,Non GUI Mode 1-4,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,240,0,0
+1787136992426,487,UnitConversions,200,OK,Non GUI Mode 1-2,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787136992426,235,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,235,0,0
+1787136992661,252,UnitConversions-1,200,OK,Non GUI Mode 1-2,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787136992425,491,UnitConversions,200,OK,Non GUI Mode 1-5,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136992425,244,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787136992669,247,UnitConversions-1,200,OK,Non GUI Mode 1-5,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787136992437,494,UnitConversions,200,OK,Non GUI Mode 1-1,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787136992437,245,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,245,0,0
+1787136992682,249,UnitConversions-1,200,OK,Non GUI Mode 1-1,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136992452,495,UnitConversions,200,OK,Non GUI Mode 1-3,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787136992452,242,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787136992694,253,UnitConversions-1,200,OK,Non GUI Mode 1-3,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787136992496,509,UnitConversions,200,OK,Non GUI Mode 1-6,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136992496,248,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,248,0,0
+1787136992744,261,UnitConversions-1,200,OK,Non GUI Mode 1-6,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,261,0,0
+1787136992535,489,UnitConversions,200,OK,Non GUI Mode 1-8,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787136992535,244,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787136992779,245,UnitConversions-1,200,OK,Non GUI Mode 1-8,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136992649,494,UnitConversions,200,OK,Non GUI Mode 1-9,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,240,0,0
+1787136992649,240,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,240,0,0
+1787136992890,253,UnitConversions-1,200,OK,Non GUI Mode 1-9,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787136992677,521,UnitConversions,200,OK,Non GUI Mode 1-7,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,271,0,0
+1787136992677,271,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,271,0,0
+1787136992949,249,UnitConversions-1,200,OK,Non GUI Mode 1-7,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136992818,500,UnitConversions,200,OK,Non GUI Mode 1-10,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787136992818,250,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,250,0,0
+1787136993068,250,UnitConversions-1,200,OK,Non GUI Mode 1-10,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787136992866,491,Formulas,200,OK,Non GUI Mode 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136992866,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136993114,243,Formulas-1,200,OK,Non GUI Mode 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136992914,490,Formulas,200,OK,Non GUI Mode 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,237,0,0
+1787136992914,237,Formulas-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,237,0,0
+1787136993151,253,Formulas-1,200,OK,Non GUI Mode 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136992916,492,Formulas,200,OK,Non GUI Mode 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136992916,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787136993160,248,Formulas-1,200,OK,Non GUI Mode 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136992931,495,Formulas,200,OK,Non GUI Mode 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787136992931,245,Formulas-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,245,0,0
+1787136993176,250,Formulas-1,200,OK,Non GUI Mode 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136992948,496,Formulas,200,OK,Non GUI Mode 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,241,0,0
+1787136992948,241,Formulas-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,241,0,0
+1787136993190,254,Formulas-1,200,OK,Non GUI Mode 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136993006,502,Formulas,200,OK,Non GUI Mode 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136993006,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136993252,256,Formulas-1,200,OK,Non GUI Mode 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,256,0,0
+1787136993025,486,Formulas,200,OK,Non GUI Mode 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136993025,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136993266,245,Formulas-1,200,OK,Non GUI Mode 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787136993144,489,Formulas,200,OK,Non GUI Mode 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,239,0,0
+1787136993144,239,Formulas-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,239,0,0
+1787136993383,250,Formulas-1,200,OK,Non GUI Mode 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136993199,520,Formulas,200,OK,Non GUI Mode 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,270,0,0
+1787136993199,270,Formulas-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,270,0,0
+1787136993468,251,Formulas-1,200,OK,Non GUI Mode 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,251,0,0
+1787136993318,499,Formulas,200,OK,Non GUI Mode 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136993318,249,Formulas-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,249,0,0
+1787136993567,250,Formulas-1,200,OK,Non GUI Mode 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136993357,486,Currencies,200,OK,Non GUI Mode 1-4,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136993357,247,Currencies-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787136993605,238,Currencies-1,200,OK,Non GUI Mode 1-4,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,238,0,0
+1787136993403,491,Currencies,200,OK,Non GUI Mode 1-2,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,237,0,0
+1787136993403,237,Currencies-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,237,0,0
+1787136993641,253,Currencies-1,200,OK,Non GUI Mode 1-2,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787136993407,492,Currencies,200,OK,Non GUI Mode 1-5,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787136993407,245,Currencies-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787136993653,246,Currencies-1,200,OK,Non GUI Mode 1-5,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787136993426,495,Currencies,200,OK,Non GUI Mode 1-1,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787136993426,246,Currencies-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787136993673,248,Currencies-1,200,OK,Non GUI Mode 1-1,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136993443,495,Currencies,200,OK,Non GUI Mode 1-3,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787136993443,242,Currencies-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787136993686,252,Currencies-1,200,OK,Non GUI Mode 1-3,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787136993511,488,Currencies,200,OK,Non GUI Mode 1-8,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136993511,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787136993755,244,Currencies-1,200,OK,Non GUI Mode 1-8,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136993509,504,Currencies,200,OK,Non GUI Mode 1-6,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136993509,248,Currencies-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,248,0,0
+1787136993757,256,Currencies-1,200,OK,Non GUI Mode 1-6,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,256,0,0
+1787136993634,491,Currencies,200,OK,Non GUI Mode 1-9,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,240,0,0
+1787136993634,240,Currencies-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,240,0,0
+1787136993874,251,Currencies-1,200,OK,Non GUI Mode 1-9,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136993719,522,Currencies,200,OK,Non GUI Mode 1-7,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,272,0,0
+1787136993719,272,Currencies-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,272,0,0
+1787136993991,250,Currencies-1,200,OK,Non GUI Mode 1-7,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136993818,499,Currencies,200,OK,Non GUI Mode 1-10,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136993818,249,Currencies-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,249,0,0
+1787136994067,250,Currencies-1,200,OK,Non GUI Mode 1-10,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136993895,486,Charts,200,OK,Non GUI Mode 1-2,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787136993895,234,Charts-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,234,0,0
+1787136994129,252,Charts-1,200,OK,Non GUI Mode 1-2,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787136993843,718,Charts,200,OK,Non GUI Mode 1-4,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787136993843,247,Charts-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787136994090,471,Charts-1,200,OK,Non GUI Mode 1-4,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,237,0,0
+1787136993899,735,Charts,200,OK,Non GUI Mode 1-5,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136993899,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787136994143,491,Charts-1,200,OK,Non GUI Mode 1-5,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787136993922,741,Charts,200,OK,Non GUI Mode 1-1,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787136993922,245,Charts-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787136994167,496,Charts-1,200,OK,Non GUI Mode 1-1,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787136993939,746,Charts,200,OK,Non GUI Mode 1-3,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787136993939,242,Charts-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787136994182,503,Charts-1,200,OK,Non GUI Mode 1-3,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787136994000,728,Charts,200,OK,Non GUI Mode 1-8,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787136994000,242,Charts-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787136994243,485,Charts-1,200,OK,Non GUI Mode 1-8,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787136994014,757,Charts,200,OK,Non GUI Mode 1-6,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787136994014,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787136994262,509,Charts-1,200,OK,Non GUI Mode 1-6,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,255,0,0
+1787136994126,737,Charts,200,OK,Non GUI Mode 1-9,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,239,0,0
+1787136994126,240,Charts-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,239,0,0
+1787136994366,497,Charts-1,200,OK,Non GUI Mode 1-9,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787136994382,487,Calculators,200,OK,Non GUI Mode 1-2,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787136994382,234,Calculators-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,234,0,0
+1787136994616,253,Calculators-1,200,OK,Non GUI Mode 1-2,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787136994242,771,Charts,200,OK,Non GUI Mode 1-7,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,271,0,0
+1787136994242,271,Charts-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,271,0,0
+1787136994513,500,Charts-1,200,OK,Non GUI Mode 1-7,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787136994317,750,Charts,200,OK,Non GUI Mode 1-10,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787136994317,250,Charts-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,250,0,0
+1787136994567,500,Charts-1,200,OK,Non GUI Mode 1-10,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787136994562,719,Calculators,200,OK,Non GUI Mode 1-4,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787136994562,247,Calculators-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787136994809,472,Calculators-1,200,OK,Non GUI Mode 1-4,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,237,0,0
+1787136994870,488,UnitConversions,200,OK,Non GUI Mode 1-2,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787136994870,235,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,235,0,0
+1787136995105,253,UnitConversions-1,200,OK,Non GUI Mode 1-2,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787136994635,737,Calculators,200,OK,Non GUI Mode 1-5,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787136994635,243,Calculators-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,243,0,0
+1787136994879,493,Calculators-1,200,OK,Non GUI Mode 1-5,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787136994663,743,Calculators,200,OK,Non GUI Mode 1-1,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,245,0,0
+1787136994663,245,Calculators-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,245,0,0
+1787136994909,497,Calculators-1,200,OK,Non GUI Mode 1-1,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136994686,746,Calculators,200,OK,Non GUI Mode 1-3,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787136994686,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,242,0,0
+1787136994929,503,Calculators-1,200,OK,Non GUI Mode 1-3,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787136994730,729,Calculators,200,OK,Non GUI Mode 1-8,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,241,0,0
+1787136994730,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,241,0,0
+1787136994972,487,Calculators-1,200,OK,Non GUI Mode 1-8,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787136994771,760,Calculators,200,OK,Non GUI Mode 1-6,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787136994771,247,Calculators-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787136995019,512,Calculators-1,200,OK,Non GUI Mode 1-6,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,257,0,0
+1787136994863,739,Calculators,200,OK,Non GUI Mode 1-9,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,240,0,0
+1787136994863,240,Calculators-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,240,0,0
+1787136995103,499,Calculators-1,200,OK,Non GUI Mode 1-9,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787136995282,491,UnitConversions,200,OK,Non GUI Mode 1-4,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136995282,248,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,248,0,0
+1787136995530,243,UnitConversions-1,200,OK,Non GUI Mode 1-4,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787136995014,769,Calculators,200,OK,Non GUI Mode 1-7,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,271,0,0
+1787136995014,271,Calculators-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,271,0,0
+1787136995286,497,Calculators-1,200,OK,Non GUI Mode 1-7,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136995067,748,Calculators,200,OK,Non GUI Mode 1-10,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787136995067,250,Calculators-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,250,0,0
+1787136995318,497,Calculators-1,200,OK,Non GUI Mode 1-10,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136995373,492,UnitConversions,200,OK,Non GUI Mode 1-5,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787136995373,243,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787136995617,248,UnitConversions-1,200,OK,Non GUI Mode 1-5,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136995407,496,UnitConversions,200,OK,Non GUI Mode 1-1,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787136995407,245,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,245,0,0
+1787136995653,250,UnitConversions-1,200,OK,Non GUI Mode 1-1,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136995433,494,UnitConversions,200,OK,Non GUI Mode 1-3,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,241,0,0
+1787136995433,241,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,241,0,0
+1787136995674,253,UnitConversions-1,200,OK,Non GUI Mode 1-3,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787136995460,487,UnitConversions,200,OK,Non GUI Mode 1-8,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787136995460,242,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787136995703,244,UnitConversions-1,200,OK,Non GUI Mode 1-8,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136995531,502,UnitConversions,200,OK,Non GUI Mode 1-6,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787136995531,247,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787136995778,255,UnitConversions-1,200,OK,Non GUI Mode 1-6,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,255,0,0
+1787136995603,491,UnitConversions,200,OK,Non GUI Mode 1-9,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,241,0,0
+1787136995603,241,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,241,0,0
+1787136995844,250,UnitConversions-1,200,OK,Non GUI Mode 1-9,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787136995358,738,Formulas,200,OK,Non GUI Mode 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,236,0,0
+1787136995358,236,Formulas-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,236,0,0
+1787136995594,502,Formulas-1,200,OK,Non GUI Mode 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136995784,520,UnitConversions,200,OK,Non GUI Mode 1-7,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,270,0,0
+1787136995784,271,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,270,0,0
+1787136996055,249,UnitConversions-1,200,OK,Non GUI Mode 1-7,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136995816,498,UnitConversions,200,OK,Non GUI Mode 1-10,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136995816,249,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,249,0,0
+1787136996065,249,UnitConversions-1,200,OK,Non GUI Mode 1-10,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136995903,499,Formulas,200,OK,Non GUI Mode 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136995903,249,Formulas-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,249,0,0
+1787136996153,249,Formulas-1,200,OK,Non GUI Mode 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136995928,495,Formulas,200,OK,Non GUI Mode 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136995928,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136996170,253,Formulas-1,200,OK,Non GUI Mode 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136995774,720,Formulas,200,OK,Non GUI Mode 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136995774,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136996022,472,Formulas-1,200,OK,Non GUI Mode 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,238,0,0
+1787136996097,486,Currencies,200,OK,Non GUI Mode 1-2,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787136996097,234,Currencies-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,234,0,0
+1787136996331,252,Currencies-1,200,OK,Non GUI Mode 1-2,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787136996095,490,Formulas,200,OK,Non GUI Mode 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,239,0,0
+1787136996095,239,Formulas-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,239,0,0
+1787136996334,251,Formulas-1,200,OK,Non GUI Mode 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136995865,735,Formulas,200,OK,Non GUI Mode 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136995865,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787136996109,491,Formulas-1,200,OK,Non GUI Mode 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136995948,727,Formulas,200,OK,Non GUI Mode 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136995948,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136996190,485,Formulas-1,200,OK,Non GUI Mode 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136996033,757,Formulas,200,OK,Non GUI Mode 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787136996033,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787136996280,510,Formulas-1,200,OK,Non GUI Mode 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,257,0,0
+1787136996305,521,Formulas,200,OK,Non GUI Mode 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,271,0,0
+1787136996305,271,Formulas-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,271,0,0
+1787136996576,250,Formulas-1,200,OK,Non GUI Mode 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136996403,495,Currencies,200,OK,Non GUI Mode 1-1,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787136996403,246,Currencies-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787136996649,249,Currencies-1,200,OK,Non GUI Mode 1-1,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136996423,502,Currencies,200,OK,Non GUI Mode 1-3,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787136996423,242,Currencies-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787136996665,260,Currencies-1,200,OK,Non GUI Mode 1-3,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,260,0,0
+1787136996494,484,Currencies,200,OK,Non GUI Mode 1-4,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136996494,247,Currencies-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787136996741,237,Currencies-1,200,OK,Non GUI Mode 1-4,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787136996314,744,Formulas,200,OK,Non GUI Mode 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787136996314,248,Formulas-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,248,0,0
+1787136996562,496,Formulas-1,200,OK,Non GUI Mode 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136996585,489,Currencies,200,OK,Non GUI Mode 1-9,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,239,0,0
+1787136996585,239,Currencies-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,239,0,0
+1787136996824,250,Currencies-1,200,OK,Non GUI Mode 1-9,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136996600,492,Currencies,200,OK,Non GUI Mode 1-5,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136996600,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787136996844,248,Currencies-1,200,OK,Non GUI Mode 1-5,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787136996678,488,Currencies,200,OK,Non GUI Mode 1-8,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787136996678,243,Currencies-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787136996922,244,Currencies-1,200,OK,Non GUI Mode 1-8,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136996791,504,Currencies,200,OK,Non GUI Mode 1-6,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136996791,247,Currencies-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787136997038,257,Currencies-1,200,OK,Non GUI Mode 1-6,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,257,0,0
+1787136996583,739,Charts,200,OK,Non GUI Mode 1-2,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787136996583,235,Charts-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,235,0,0
+1787136996819,503,Charts-1,200,OK,Non GUI Mode 1-2,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787136996829,521,Currencies,200,OK,Non GUI Mode 1-7,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,271,0,0
+1787136996829,271,Currencies-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,271,0,0
+1787136997100,250,Currencies-1,200,OK,Non GUI Mode 1-7,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136997059,500,Currencies,200,OK,Non GUI Mode 1-10,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,251,0,0
+1787136997059,251,Currencies-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,251,0,0
+1787136997310,249,Currencies-1,200,OK,Non GUI Mode 1-10,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136996898,741,Charts,200,OK,Non GUI Mode 1-1,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787136996898,245,Charts-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787136997143,496,Charts-1,200,OK,Non GUI Mode 1-1,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787136996925,748,Charts,200,OK,Non GUI Mode 1-3,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136996925,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787136997170,503,Charts-1,200,OK,Non GUI Mode 1-3,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787136996978,717,Charts,200,OK,Non GUI Mode 1-4,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787136996978,247,Charts-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,246,0,0
+1787136997225,470,Charts-1,200,OK,Non GUI Mode 1-4,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787136997074,736,Charts,200,OK,Non GUI Mode 1-9,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,239,0,0
+1787136997074,239,Charts-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,239,0,0
+1787136997313,497,Charts-1,200,OK,Non GUI Mode 1-9,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787136997092,734,Charts,200,OK,Non GUI Mode 1-5,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136997092,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787136997336,490,Charts-1,200,OK,Non GUI Mode 1-5,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787136997167,727,Charts,200,OK,Non GUI Mode 1-8,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787136997167,242,Charts-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787136997409,485,Charts-1,200,OK,Non GUI Mode 1-8,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136997297,757,Charts,200,OK,Non GUI Mode 1-6,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787136997297,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,248,0,0
+1787136997545,509,Charts-1,200,OK,Non GUI Mode 1-6,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,256,0,0
+1787136997322,738,Calculators,200,OK,Non GUI Mode 1-2,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,235,0,0
+1787136997322,235,Calculators-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,235,0,0
+1787136997557,503,Calculators-1,200,OK,Non GUI Mode 1-2,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,253,0,0
+1787136997350,769,Charts,200,OK,Non GUI Mode 1-7,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,272,0,0
+1787136997350,272,Charts-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,272,0,0
+1787136997622,497,Charts-1,200,OK,Non GUI Mode 1-7,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787136997560,745,Charts,200,OK,Non GUI Mode 1-10,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787136997560,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,248,0,0
+1787136997808,497,Charts-1,200,OK,Non GUI Mode 1-10,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787136997640,741,Calculators,200,OK,Non GUI Mode 1-1,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787136997640,245,Calculators-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787136997885,496,Calculators-1,200,OK,Non GUI Mode 1-1,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787136997673,746,Calculators,200,OK,Non GUI Mode 1-3,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787136997673,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,242,0,0
+1787136997915,504,Calculators-1,200,OK,Non GUI Mode 1-3,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787136997696,730,Calculators,200,OK,Non GUI Mode 1-4,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136997696,246,Calculators-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787136997942,484,Calculators-1,200,OK,Non GUI Mode 1-4,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787136998061,488,UnitConversions,200,OK,Non GUI Mode 1-2,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,234,0,0
+1787136998061,234,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,234,0,0
+1787136998295,254,UnitConversions-1,200,OK,Non GUI Mode 1-2,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787136997811,740,Calculators,200,OK,Non GUI Mode 1-9,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,240,0,0
+1787136997811,240,Calculators-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,240,0,0
+1787136998051,500,Calculators-1,200,OK,Non GUI Mode 1-9,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787136997827,735,Calculators,200,OK,Non GUI Mode 1-5,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787136997827,244,Calculators-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787136998071,491,Calculators-1,200,OK,Non GUI Mode 1-5,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136997895,729,Calculators,200,OK,Non GUI Mode 1-8,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787136997895,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,242,0,0
+1787136998137,487,Calculators-1,200,OK,Non GUI Mode 1-8,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136998055,755,Calculators,200,OK,Non GUI Mode 1-6,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787136998055,246,Calculators-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787136998301,509,Calculators-1,200,OK,Non GUI Mode 1-6,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,255,0,0
+1787136998382,494,UnitConversions,200,OK,Non GUI Mode 1-1,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136998382,244,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787136998626,250,UnitConversions-1,200,OK,Non GUI Mode 1-1,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787136998119,769,Calculators,200,OK,Non GUI Mode 1-7,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,271,0,0
+1787136998119,271,Calculators-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,271,0,0
+1787136998390,498,Calculators-1,200,OK,Non GUI Mode 1-7,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136998427,483,UnitConversions,200,OK,Non GUI Mode 1-4,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,246,0,0
+1787136998427,246,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,246,0,0
+1787136998673,237,UnitConversions-1,200,OK,Non GUI Mode 1-4,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787136998420,494,UnitConversions,200,OK,Non GUI Mode 1-3,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,241,0,0
+1787136998420,241,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,241,0,0
+1787136998661,253,UnitConversions-1,200,OK,Non GUI Mode 1-3,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787136998551,489,UnitConversions,200,OK,Non GUI Mode 1-9,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,240,0,0
+1787136998551,240,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,240,0,0
+1787136998791,249,UnitConversions-1,200,OK,Non GUI Mode 1-9,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136998305,745,Calculators,200,OK,Non GUI Mode 1-10,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787136998305,249,Calculators-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,249,0,0
+1787136998554,496,Calculators-1,200,OK,Non GUI Mode 1-10,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787136998562,493,UnitConversions,200,OK,Non GUI Mode 1-5,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136998562,244,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787136998806,249,UnitConversions-1,200,OK,Non GUI Mode 1-5,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136998625,487,UnitConversions,200,OK,Non GUI Mode 1-8,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787136998625,243,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787136998868,244,UnitConversions-1,200,OK,Non GUI Mode 1-8,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787136998549,738,Formulas,200,OK,Non GUI Mode 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787136998549,235,Formulas-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,235,0,0
+1787136998784,503,Formulas-1,200,OK,Non GUI Mode 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136998810,508,UnitConversions,200,OK,Non GUI Mode 1-6,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787136998810,252,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,252,0,0
+1787136999062,256,UnitConversions-1,200,OK,Non GUI Mode 1-6,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,256,0,0
+1787136998876,495,Formulas,200,OK,Non GUI Mode 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787136998876,246,Formulas-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,246,0,0
+1787136999122,249,Formulas-1,200,OK,Non GUI Mode 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787136998888,521,UnitConversions,200,OK,Non GUI Mode 1-7,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,271,0,0
+1787136998888,271,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,271,0,0
+1787136999159,250,UnitConversions-1,200,OK,Non GUI Mode 1-7,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136998915,496,Formulas,200,OK,Non GUI Mode 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136998915,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136999157,254,Formulas-1,200,OK,Non GUI Mode 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787136999051,497,UnitConversions,200,OK,Non GUI Mode 1-10,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787136999051,249,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,249,0,0
+1787136999300,248,UnitConversions-1,200,OK,Non GUI Mode 1-10,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787136998911,717,Formulas,200,OK,Non GUI Mode 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787136998911,246,Formulas-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,246,0,0
+1787136999157,471,Formulas-1,200,OK,Non GUI Mode 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,237,0,0
+1787136999288,488,Currencies,200,OK,Non GUI Mode 1-2,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787136999288,234,Currencies-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,234,0,0
+1787136999523,253,Currencies-1,200,OK,Non GUI Mode 1-2,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787136999040,738,Formulas,200,OK,Non GUI Mode 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,241,0,0
+1787136999040,241,Formulas-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,241,0,0
+1787136999281,497,Formulas-1,200,OK,Non GUI Mode 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136999056,733,Formulas,200,OK,Non GUI Mode 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787136999056,243,Formulas-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787136999299,490,Formulas-1,200,OK,Non GUI Mode 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787136999318,505,Formulas,200,OK,Non GUI Mode 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787136999318,248,Formulas-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,248,0,0
+1787136999566,257,Formulas-1,200,OK,Non GUI Mode 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,256,0,0
+1787136999113,727,Formulas,200,OK,Non GUI Mode 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787136999113,242,Formulas-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787136999355,485,Formulas-1,200,OK,Non GUI Mode 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787136999371,495,Currencies,200,OK,Non GUI Mode 1-1,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787136999371,246,Currencies-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787136999617,249,Currencies-1,200,OK,Non GUI Mode 1-1,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136999411,495,Currencies,200,OK,Non GUI Mode 1-3,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,241,0,0
+1787136999411,241,Currencies-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,241,0,0
+1787136999653,253,Currencies-1,200,OK,Non GUI Mode 1-3,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787136999409,522,Formulas,200,OK,Non GUI Mode 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,271,0,0
+1787136999409,271,Formulas-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,271,0,0
+1787136999681,250,Formulas-1,200,OK,Non GUI Mode 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787136999628,485,Currencies,200,OK,Non GUI Mode 1-4,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136999628,247,Currencies-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787136999875,238,Currencies-1,200,OK,Non GUI Mode 1-4,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,238,0,0
+1787136999779,490,Currencies,200,OK,Non GUI Mode 1-9,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,240,0,0
+1787136999779,240,Currencies-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,240,0,0
+1787137000019,250,Currencies-1,200,OK,Non GUI Mode 1-9,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787136999789,491,Currencies,200,OK,Non GUI Mode 1-5,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787136999789,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787137000033,247,Currencies-1,200,OK,Non GUI Mode 1-5,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787136999549,745,Formulas,200,OK,Non GUI Mode 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136999549,249,Formulas-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,249,0,0
+1787136999798,496,Formulas-1,200,OK,Non GUI Mode 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787136999823,504,Currencies,200,OK,Non GUI Mode 1-6,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136999823,249,Currencies-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,249,0,0
+1787137000072,255,Currencies-1,200,OK,Non GUI Mode 1-6,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,255,0,0
+1787136999841,486,Currencies,200,OK,Non GUI Mode 1-8,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787136999841,242,Currencies-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787137000084,243,Currencies-1,200,OK,Non GUI Mode 1-8,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787136999931,521,Currencies,200,OK,Non GUI Mode 1-7,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,271,0,0
+1787136999931,271,Currencies-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,271,0,0
+1787137000202,250,Currencies-1,200,OK,Non GUI Mode 1-7,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787136999777,740,Charts,200,OK,Non GUI Mode 1-2,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,237,0,0
+1787136999777,237,Charts-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,237,0,0
+1787137000015,502,Charts-1,200,OK,Non GUI Mode 1-2,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787136999866,742,Charts,200,OK,Non GUI Mode 1-1,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787136999866,247,Charts-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,246,0,0
+1787137000113,495,Charts-1,200,OK,Non GUI Mode 1-1,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787136999906,757,Charts,200,OK,Non GUI Mode 1-3,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787136999906,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787137000150,513,Charts-1,200,OK,Non GUI Mode 1-3,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,262,0,0
+1787137000294,498,Currencies,200,OK,Non GUI Mode 1-10,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787137000294,250,Currencies-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,250,0,0
+1787137000544,248,Currencies-1,200,OK,Non GUI Mode 1-10,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787137000113,718,Charts,200,OK,Non GUI Mode 1-4,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787137000113,247,Charts-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787137000360,471,Charts-1,200,OK,Non GUI Mode 1-4,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787137000269,736,Charts,200,OK,Non GUI Mode 1-9,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,240,0,0
+1787137000269,240,Charts-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,240,0,0
+1787137000509,496,Charts-1,200,OK,Non GUI Mode 1-9,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137000280,734,Charts,200,OK,Non GUI Mode 1-5,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787137000280,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787137000524,490,Charts-1,200,OK,Non GUI Mode 1-5,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787137000328,733,Charts,200,OK,Non GUI Mode 1-8,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787137000328,247,Charts-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787137000575,486,Charts-1,200,OK,Non GUI Mode 1-8,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787137000327,756,Charts,200,OK,Non GUI Mode 1-6,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787137000327,248,Charts-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,248,0,0
+1787137000575,508,Charts-1,200,OK,Non GUI Mode 1-6,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,255,0,0
+1787137000452,768,Charts,200,OK,Non GUI Mode 1-7,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,271,0,0
+1787137000452,271,Charts-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,271,0,0
+1787137000723,497,Charts-1,200,OK,Non GUI Mode 1-7,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137000518,736,Calculators,200,OK,Non GUI Mode 1-2,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787137000518,234,Calculators-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,234,0,0
+1787137000752,502,Calculators-1,200,OK,Non GUI Mode 1-2,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787137000608,743,Calculators,200,OK,Non GUI Mode 1-1,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,245,0,0
+1787137000608,245,Calculators-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,245,0,0
+1787137000853,498,Calculators-1,200,OK,Non GUI Mode 1-1,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787137000664,746,Calculators,200,OK,Non GUI Mode 1-3,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,241,0,0
+1787137000664,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,241,0,0
+1787137000906,504,Calculators-1,200,OK,Non GUI Mode 1-3,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,253,0,0
+1787137000793,745,Charts,200,OK,Non GUI Mode 1-10,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137000793,249,Charts-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,249,0,0
+1787137001042,496,Charts-1,200,OK,Non GUI Mode 1-10,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787137000832,719,Calculators,200,OK,Non GUI Mode 1-4,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787137000832,246,Calculators-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787137001078,473,Calculators-1,200,OK,Non GUI Mode 1-4,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,237,0,0
+1787137001255,487,UnitConversions,200,OK,Non GUI Mode 1-2,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,234,0,0
+1787137001255,234,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,234,0,0
+1787137001489,253,UnitConversions-1,200,OK,Non GUI Mode 1-2,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787137001006,739,Calculators,200,OK,Non GUI Mode 1-9,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,240,0,0
+1787137001006,241,Calculators-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,240,0,0
+1787137001247,498,Calculators-1,200,OK,Non GUI Mode 1-9,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787137001014,735,Calculators,200,OK,Non GUI Mode 1-5,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787137001014,243,Calculators-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,243,0,0
+1787137001257,492,Calculators-1,200,OK,Non GUI Mode 1-5,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787137001062,732,Calculators,200,OK,Non GUI Mode 1-8,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787137001062,244,Calculators-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787137001307,487,Calculators-1,200,OK,Non GUI Mode 1-8,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,245,0,0
+1787137001083,756,Calculators,200,OK,Non GUI Mode 1-6,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787137001083,247,Calculators-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787137001330,509,Calculators-1,200,OK,Non GUI Mode 1-6,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,256,0,0
+1787137001351,494,UnitConversions,200,OK,Non GUI Mode 1-1,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787137001351,245,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,245,0,0
+1787137001596,249,UnitConversions-1,200,OK,Non GUI Mode 1-1,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787137001411,495,UnitConversions,200,OK,Non GUI Mode 1-3,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787137001411,242,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787137001653,253,UnitConversions-1,200,OK,Non GUI Mode 1-3,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787137001220,771,Calculators,200,OK,Non GUI Mode 1-7,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,274,0,0
+1787137001220,274,Calculators-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,274,0,0
+1787137001494,497,Calculators-1,200,OK,Non GUI Mode 1-7,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787137001552,483,UnitConversions,200,OK,Non GUI Mode 1-4,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,246,0,0
+1787137001552,246,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,246,0,0
+1787137001798,237,UnitConversions-1,200,OK,Non GUI Mode 1-4,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787137001743,489,Formulas,200,OK,Non GUI Mode 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,236,0,0
+1787137001743,236,Formulas-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,236,0,0
+1787137001979,253,Formulas-1,200,OK,Non GUI Mode 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,252,0,0
+1787137001745,489,UnitConversions,200,OK,Non GUI Mode 1-9,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,240,0,0
+1787137001745,240,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,240,0,0
+1787137001985,249,UnitConversions-1,200,OK,Non GUI Mode 1-9,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787137001749,490,UnitConversions,200,OK,Non GUI Mode 1-5,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787137001749,244,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787137001993,246,UnitConversions-1,200,OK,Non GUI Mode 1-5,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,246,0,0
+1787137001794,485,UnitConversions,200,OK,Non GUI Mode 1-8,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787137001794,242,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787137002036,243,UnitConversions-1,200,OK,Non GUI Mode 1-8,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787137001538,745,Calculators,200,OK,Non GUI Mode 1-10,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,249,0,0
+1787137001538,249,Calculators-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,249,0,0
+1787137001787,496,Calculators-1,200,OK,Non GUI Mode 1-10,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787137001845,492,Formulas,200,OK,Non GUI Mode 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787137001845,244,Formulas-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787137002089,248,Formulas-1,200,OK,Non GUI Mode 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787137001840,501,UnitConversions,200,OK,Non GUI Mode 1-6,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787137001840,247,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787137002087,254,UnitConversions-1,200,OK,Non GUI Mode 1-6,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,254,0,0
+1787137001991,524,UnitConversions,200,OK,Non GUI Mode 1-7,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,273,0,0
+1787137001991,273,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,273,0,0
+1787137002264,251,UnitConversions-1,200,OK,Non GUI Mode 1-7,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,251,0,0
+1787137001906,747,Formulas,200,OK,Non GUI Mode 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787137001906,245,Formulas-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,245,0,0
+1787137002151,502,Formulas-1,200,OK,Non GUI Mode 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,252,0,0
+1787137002232,486,Currencies,200,OK,Non GUI Mode 1-2,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787137002232,234,Currencies-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,234,0,0
+1787137002466,252,Currencies-1,200,OK,Non GUI Mode 1-2,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787137002234,487,Formulas,200,OK,Non GUI Mode 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,239,0,0
+1787137002234,239,Formulas-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,239,0,0
+1787137002473,248,Formulas-1,200,OK,Non GUI Mode 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787137002036,717,Formulas,200,OK,Non GUI Mode 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787137002036,245,Formulas-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,245,0,0
+1787137002282,471,Formulas-1,200,OK,Non GUI Mode 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,236,0,0
+1787137002283,497,UnitConversions,200,OK,Non GUI Mode 1-10,text,true,,23938,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787137002283,249,UnitConversions-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,249,0,0
+1787137002532,248,UnitConversions-1,200,OK,Non GUI Mode 1-10,text,true,,23551,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787137002337,493,Currencies,200,OK,Non GUI Mode 1-1,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787137002337,244,Currencies-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787137002581,249,Currencies-1,200,OK,Non GUI Mode 1-1,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787137002239,733,Formulas,200,OK,Non GUI Mode 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787137002239,243,Formulas-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787137002482,490,Formulas-1,200,OK,Non GUI Mode 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787137002279,727,Formulas,200,OK,Non GUI Mode 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787137002279,243,Formulas-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787137002522,484,Formulas-1,200,OK,Non GUI Mode 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787137002515,520,Formulas,200,OK,Non GUI Mode 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,271,0,0
+1787137002515,271,Formulas-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,271,0,0
+1787137002786,249,Formulas-1,200,OK,Non GUI Mode 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787137002341,755,Formulas,200,OK,Non GUI Mode 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787137002341,247,Formulas-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787137002588,508,Formulas-1,200,OK,Non GUI Mode 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787137002654,497,Currencies,200,OK,Non GUI Mode 1-3,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787137002654,242,Currencies-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787137002897,254,Currencies-1,200,OK,Non GUI Mode 1-3,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787137002722,491,Currencies,200,OK,Non GUI Mode 1-9,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,239,0,0
+1787137002722,239,Currencies-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,239,0,0
+1787137002961,252,Currencies-1,200,OK,Non GUI Mode 1-9,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787137002754,482,Currencies,200,OK,Non GUI Mode 1-4,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787137002754,246,Currencies-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787137003000,236,Currencies-1,200,OK,Non GUI Mode 1-4,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787137002718,748,Charts,200,OK,Non GUI Mode 1-2,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787137002718,235,Charts-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,235,0,0
+1787137002953,513,Charts-1,200,OK,Non GUI Mode 1-2,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787137002972,496,Currencies,200,OK,Non GUI Mode 1-5,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787137002972,250,Currencies-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,250,0,0
+1787137003223,245,Currencies-1,200,OK,Non GUI Mode 1-5,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787137003007,485,Currencies,200,OK,Non GUI Mode 1-8,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,241,0,0
+1787137003007,241,Currencies-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,241,0,0
+1787137003249,243,Currencies-1,200,OK,Non GUI Mode 1-8,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787137002780,744,Formulas,200,OK,Non GUI Mode 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787137002780,249,Formulas-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,249,0,0
+1787137003029,495,Formulas-1,200,OK,Non GUI Mode 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787137003036,521,Currencies,200,OK,Non GUI Mode 1-7,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,271,0,0
+1787137003036,271,Currencies-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,271,0,0
+1787137003308,249,Currencies-1,200,OK,Non GUI Mode 1-7,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787137002830,740,Charts,200,OK,Non GUI Mode 1-1,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787137002830,245,Charts-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787137003075,495,Charts-1,200,OK,Non GUI Mode 1-1,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137003096,502,Currencies,200,OK,Non GUI Mode 1-6,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787137003096,247,Currencies-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787137003344,254,Currencies-1,200,OK,Non GUI Mode 1-6,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787137003151,745,Charts,200,OK,Non GUI Mode 1-3,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,241,0,0
+1787137003151,241,Charts-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,241,0,0
+1787137003394,502,Charts-1,200,OK,Non GUI Mode 1-3,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787137003214,739,Charts,200,OK,Non GUI Mode 1-9,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787137003214,243,Charts-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787137003457,496,Charts-1,200,OK,Non GUI Mode 1-9,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787137003238,716,Charts,200,OK,Non GUI Mode 1-4,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787137003238,245,Charts-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787137003484,470,Charts-1,200,OK,Non GUI Mode 1-4,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787137003526,498,Currencies,200,OK,Non GUI Mode 1-10,text,true,,20707,294,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787137003526,249,Currencies-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,249,0,0
+1787137003775,249,Currencies-1,200,OK,Non GUI Mode 1-10,text,true,,20317,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787137003468,734,Charts,200,OK,Non GUI Mode 1-5,text,true,,30733,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787137003468,244,Charts-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787137003712,490,Charts-1,200,OK,Non GUI Mode 1-5,text,true,,30350,142,10,10,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787137003467,737,Calculators,200,OK,Non GUI Mode 1-2,text,true,,48658,256,10,10,https://www.easycalculation.com/index.php,235,0,0
+1787137003467,235,Calculators-0,301,Moved Permanently,Non GUI Mode 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,235,0,0
+1787137003702,502,Calculators-1,200,OK,Non GUI Mode 1-2,text,true,,48287,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787137003492,728,Charts,200,OK,Non GUI Mode 1-8,text,true,,30733,280,9,9,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787137003492,242,Charts-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,383,138,9,9,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787137003735,485,Charts-1,200,OK,Non GUI Mode 1-8,text,true,,30350,142,9,9,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787137003572,741,Calculators,200,OK,Non GUI Mode 1-1,text,true,,48658,256,9,9,https://www.easycalculation.com/index.php,244,0,0
+1787137003572,244,Calculators-0,301,Moved Permanently,Non GUI Mode 1-1,text,true,,371,126,9,9,https://easycalculation.com/index.php,244,0,0
+1787137003816,497,Calculators-1,200,OK,Non GUI Mode 1-1,text,true,,48287,130,9,9,https://www.easycalculation.com/index.php,249,0,0
+1787137003557,768,Charts,200,OK,Non GUI Mode 1-7,text,true,,30733,280,8,8,https://www.easycalculation.com/charts-and-tables.php,271,0,0
+1787137003557,271,Charts-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,383,138,8,8,https://easycalculation.com/charts-and-tables.php,271,0,0
+1787137003828,497,Charts-1,200,OK,Non GUI Mode 1-7,text,true,,30350,142,8,8,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137003599,756,Charts,200,OK,Non GUI Mode 1-6,text,true,,30733,280,8,8,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787137003599,246,Charts-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,383,138,8,8,https://easycalculation.com/charts-and-tables.php,246,0,0
+1787137003846,509,Charts-1,200,OK,Non GUI Mode 1-6,text,true,,30350,142,8,8,https://www.easycalculation.com/charts-and-tables.php,256,0,0
+1787137003896,745,Calculators,200,OK,Non GUI Mode 1-3,text,true,,48658,256,8,8,https://www.easycalculation.com/index.php,242,0,0
+1787137003896,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-3,text,true,,371,126,8,8,https://easycalculation.com/index.php,242,0,0
+1787137004138,503,Calculators-1,200,OK,Non GUI Mode 1-3,text,true,,48287,130,8,8,https://www.easycalculation.com/index.php,252,0,0
+1787137003954,720,Calculators,200,OK,Non GUI Mode 1-4,text,true,,48658,256,7,7,https://www.easycalculation.com/index.php,247,0,0
+1787137003954,247,Calculators-0,301,Moved Permanently,Non GUI Mode 1-4,text,true,,371,126,7,7,https://easycalculation.com/index.php,247,0,0
+1787137004201,473,Calculators-1,200,OK,Non GUI Mode 1-4,text,true,,48287,130,7,7,https://www.easycalculation.com/index.php,238,0,0
+1787137003953,749,Calculators,200,OK,Non GUI Mode 1-9,text,true,,48658,256,6,6,https://www.easycalculation.com/index.php,243,0,0
+1787137003953,243,Calculators-0,301,Moved Permanently,Non GUI Mode 1-9,text,true,,371,126,6,6,https://easycalculation.com/index.php,243,0,0
+1787137004196,506,Calculators-1,200,OK,Non GUI Mode 1-9,text,true,,48287,130,6,6,https://www.easycalculation.com/index.php,258,0,0
+1787137004024,760,Charts,200,OK,Non GUI Mode 1-10,text,true,,30733,280,5,5,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787137004024,249,Charts-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,383,138,5,5,https://easycalculation.com/charts-and-tables.php,249,0,0
+1787137004273,511,Charts-1,200,OK,Non GUI Mode 1-10,text,true,,30350,142,5,5,https://www.easycalculation.com/charts-and-tables.php,263,0,0
+1787137004202,736,Calculators,200,OK,Non GUI Mode 1-5,text,true,,48658,256,5,5,https://www.easycalculation.com/index.php,245,0,0
+1787137004202,245,Calculators-0,301,Moved Permanently,Non GUI Mode 1-5,text,true,,371,126,5,5,https://easycalculation.com/index.php,245,0,0
+1787137004447,491,Calculators-1,200,OK,Non GUI Mode 1-5,text,true,,48287,130,5,5,https://www.easycalculation.com/index.php,246,0,0
+1787137004220,727,Calculators,200,OK,Non GUI Mode 1-8,text,true,,48658,256,4,4,https://www.easycalculation.com/index.php,242,0,0
+1787137004220,242,Calculators-0,301,Moved Permanently,Non GUI Mode 1-8,text,true,,371,126,4,4,https://easycalculation.com/index.php,242,0,0
+1787137004462,485,Calculators-1,200,OK,Non GUI Mode 1-8,text,true,,48287,130,4,4,https://www.easycalculation.com/index.php,243,0,0
+1787137004325,767,Calculators,200,OK,Non GUI Mode 1-7,text,true,,48658,256,3,3,https://www.easycalculation.com/index.php,271,0,0
+1787137004325,271,Calculators-0,301,Moved Permanently,Non GUI Mode 1-7,text,true,,371,126,3,3,https://easycalculation.com/index.php,271,0,0
+1787137004596,496,Calculators-1,200,OK,Non GUI Mode 1-7,text,true,,48287,130,3,3,https://www.easycalculation.com/index.php,248,0,0
+1787137004355,767,Calculators,200,OK,Non GUI Mode 1-6,text,true,,48658,256,2,2,https://www.easycalculation.com/index.php,254,0,0
+1787137004355,254,Calculators-0,301,Moved Permanently,Non GUI Mode 1-6,text,true,,371,126,2,2,https://easycalculation.com/index.php,254,0,0
+1787137004610,512,Calculators-1,200,OK,Non GUI Mode 1-6,text,true,,48287,130,2,2,https://www.easycalculation.com/index.php,257,0,0
+1787137004784,753,Calculators,200,OK,Non GUI Mode 1-10,text,true,,48658,256,1,1,https://www.easycalculation.com/index.php,249,0,0
+1787137004784,249,Calculators-0,301,Moved Permanently,Non GUI Mode 1-10,text,true,,371,126,1,1,https://easycalculation.com/index.php,249,0,0
+1787137005033,504,Calculators-1,200,OK,Non GUI Mode 1-10,text,true,,48287,130,1,1,https://www.easycalculation.com/index.php,249,0,0
